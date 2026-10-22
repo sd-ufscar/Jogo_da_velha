@@ -1,0 +1,155 @@
+origem,bytes_originais,sha256_original,destino,sha256_publicado,decisao
+Arquivo_Pinos_DE1.qsf,26157,d4b08579054dbd0bab08c778d427ab4dffa14e60766f8670adb51a58f807facc,projeto/Arquivo_Pinos_DE1.qsf,d4b08579054dbd0bab08c778d427ab4dffa14e60766f8670adb51a58f807facc,preservado
+Block2.bdf,14775,8233b75bb734e222b252e7cf3701e1f734c7545f9c983e51b5dceadd0f25e65e,projeto/Block2.bdf,8233b75bb734e222b252e7cf3701e1f734c7545f9c983e51b5dceadd0f25e65e,preservado
+db/add_sub_lkc.tdf,1731,0012553145389d6ed0c3f05bba035e338e4cb3354b0f38c891cbf8d07f6c6638,,,nao versionado: cache/intermediario regeneravel
+db/add_sub_mkc.tdf,1876,c0a5684b8acdb557f688de0cc8509140cdb4293cbf82c92abe96436031e2be81,,,nao versionado: cache/intermediario regeneravel
+db/alt_u_div_o2f.tdf,56605,e6f61e95b66dde0b7cbf570d553114e8bd3f4aa08eb2d35430a2ec05993bc284,,,nao versionado: cache/intermediario regeneravel
+db/logic_util_heursitic.dat,50248,e9845e77a013b4d3e6c45dbf8c9a876a1769335fcf594f66aa0b5fab435fbf13,,,nao versionado: cache/intermediario regeneravel
+db/lpm_divide_hem.tdf,1934,4e63eda8d8a1b6c255ac94733aa7664cd6b64faa62fc657d1266e8c5e17b1031,,,nao versionado: cache/intermediario regeneravel
+db/lpm_divide_k6m.tdf,1940,7ec427e09f345277e169bb79c33f3632b9ef5e643512b153521ef2fcc840202c,,,nao versionado: cache/intermediario regeneravel
+db/prev_cmp_Velha.qmsg,6474,010aeb20bafae31b2d2171446bfc654920ed2020525f6208b2201bd0c210bfbf,,,nao versionado: cache/intermediario regeneravel
+db/sign_div_unsign_rlh.tdf,2061,d6982a9e0b141a42fcde4215c88acdbbd89672361b6e136f11cdbf9bd672493a,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(0).cnf.cdb,7193,5680850e4e73b3ff23e8fa392953af4bf7d4d1bee976313156d07a60b1cc1704,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(0).cnf.hdb,1453,eb588d42c9e048fc348ad9a24d528e92a9ab9fb96d59145903bb0d640d7bfb02,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(1).cnf.cdb,2547,1ba8b1cdbb8bb5cdbf3499e6bcf557e2ea3964c9c6714270dd8310f118cca477,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(1).cnf.hdb,1284,02708ac9cc39471a1c47e8c16b78b75be5cb8b724deb14d8040426ff7d36e47e,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(10).cnf.cdb,933,45dfc37e17782b8b3f407118dd16fd90768986ad7c8012f9d9c43d3e4a59273e,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(10).cnf.hdb,658,570cb969b22cd5cbda501ce8db705608a96eae788a53771d18d9ffe467180019,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(11).cnf.cdb,1180,86629e0afe9a5f8c2c3a401db4f3ac969ee7eaa2f151513734ead52c071d33f6,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(11).cnf.hdb,682,4a50756e9f57d193bf605e5a71b620413977042b6b6dea738ac0484e6e563158,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(12).cnf.cdb,1776,4bf7fed053933cb09db459ca9090bfc20e2307b78e7a09f75efa62bfd091353d,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(12).cnf.hdb,608,e3dca5328661873ddec2f4d6c728d32a987c0ea971e7754bec348a490569bd0b,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(13).cnf.cdb,1769,ec8676fa9a05974182c3c29ccb9ddc9451e009a5688db88fa193a8e7a1a83f3e,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(13).cnf.hdb,752,22b7545235206af2324fc28972a3412298f55f559d8f08947a050add80c8d592,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(2).cnf.cdb,4817,9f76fce0d463855bb90085463c899ad7a2fc3ad5ae27116a9de0116b3a7ca301,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(2).cnf.hdb,1934,786afec4594a34797dc88235a3923c2434a5cc144e347331083b3e95985ec717,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(3).cnf.cdb,1116,7731b1f57f61af3c23d719f6522e2ce9705fa4397694dd27b8c6727d24476a88,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(3).cnf.hdb,865,936e64b4354d3251779d0611b56c665d02956712820ffc80f4416308f34b23cd,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(4).cnf.cdb,1926,f4775ce102f6cd36860e46f73f6ec1404bfaea1fbc177732fb9364cb11f988c9,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(4).cnf.hdb,1043,d4610ec3911396b080bc6d43faae01ca14df9f47e8f1db5d29324319eb8f080e,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(5).cnf.cdb,7085,a587adce88e4aa9c8688dfc7ed033dbebb30c451b6f8dd62b68f84ecfa49d22b,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(5).cnf.hdb,1643,7858aad54df5743dd3adae56978179e38fe1ca400077879d81b305e945b10175,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(6).cnf.cdb,1649,6b3e47b5a67643797679997f21e106b0371839c65d6052429529a6aaa669bf19,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(6).cnf.hdb,609,ab9d2350a7738aae8f5155f7946a0248c135420182ac84a8fe5782c0bf7ae764,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(7).cnf.cdb,1768,1fa5f1bf2eea43422068f3de0be5b0e9554bec47a18ce7a9648f49495a675f17,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(7).cnf.hdb,755,80f8efc0109824a0043b55c8002150f59e42524e5501f3529f3efe15f1e6a772,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(8).cnf.cdb,2127,445107f21e66dee34f8a952485cb041b5d177068615b78d5bf18ccbcbd88c774,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(8).cnf.hdb,988,e6764d39963b88db20d104b7196ab8d03b317cc40196d47f9135fe8d43a9135b,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(9).cnf.cdb,35967,639109103c49c85ea60d8b1ef6c67f09641bcdea0e13db343c291978a25497f2,,,nao versionado: cache/intermediario regeneravel
+db/Velha.(9).cnf.hdb,30130,cc0e3a1aea11938b510401bd288ac5681e48642cb043490d330dbfdf5d4dc4a3,,,nao versionado: cache/intermediario regeneravel
+db/Velha.asm.qmsg,2507,c96bd3fdfa5504e35b4c633b1bfffb8ff16e75c8c3aae9a03f224c2a9bc318ed,,,nao versionado: cache/intermediario regeneravel
+db/Velha.asm.rdb,1503,fee6bacabf8b50b405c28bbf619856769cac677217020412fea69c8a1ed153e3,,,nao versionado: cache/intermediario regeneravel
+db/Velha.asm_labs.ddb,22590,58a99e41540a0497cc5617237f09ec54c4f148b99985b1cb3f156d312d00fa2b,,,nao versionado: cache/intermediario regeneravel
+db/Velha.cbx.xml,511,6596c776160d656cf84adba0e6ed4eae54224535dbca936aa1ab72c378328118,,,nao versionado: cache/intermediario regeneravel
+db/Velha.cmp.bpm,1187,e67c5c6e832a0a44b8f28463e4e19019f5f0d557fbcd97d4318791a20c216afe,,,nao versionado: cache/intermediario regeneravel
+db/Velha.cmp.cdb,150961,8da020d7912e90cd9f8ff560ce28f9aca048efe9592963035e309ea1f9a040eb,,,nao versionado: cache/intermediario regeneravel
+db/Velha.cmp.hdb,41382,f8247efe97a4943a0717471fd8ab1c7b13173c7afba715192206a15845255455,,,nao versionado: cache/intermediario regeneravel
+db/Velha.cmp.idb,123922,46b9d9b833be4a35c7db1fea81e92ad6be96a32acc722e2d28b6cd80bc39d3f4,,,nao versionado: cache/intermediario regeneravel
+db/Velha.cmp.kpt,214,572a9a19ae9618466b7cd9e67cbbe9e3d8eb1bf8d1b8a0e99438b6320b502f60,,,nao versionado: cache/intermediario regeneravel
+db/Velha.cmp.logdb,4,2dfede0e6610c473959c963b292fcec325452acba33fd1bba21110e04933df53,,,nao versionado: cache/intermediario regeneravel
+db/Velha.cmp.rdb,31974,d4ba51be77e6bac789d102d8a4443857c96a1db5fe000d50b90f36c5f5dbc188,,,nao versionado: cache/intermediario regeneravel
+db/Velha.cmp0.ddb,404943,c5e1a5ab32778ed3ac8b197b3dcdb8eb267d90675422110b8853670a6264c0a5,,,nao versionado: cache/intermediario regeneravel
+db/Velha.cmp1.ddb,399658,988c86d5ecd59d7bd2c8a2240bc564ea1ca9ed6de1d394f02f432e35a34a4b3c,,,nao versionado: cache/intermediario regeneravel
+db/Velha.cmp2.ddb,59466,dbc1f028f2702f972d435a7656901751bd2e5a06d176927746cb5187c6fe94c4,,,nao versionado: cache/intermediario regeneravel
+db/Velha.cmp_merge.kpt,222,965bfa0e5b139988a8fc0463d9b9b567a6d0349292652939e413cfa31c9b531b,,,nao versionado: cache/intermediario regeneravel
+db/Velha.db_info,154,210f103f303aa95165b55c24db48b91d8817fbcdf49944136a82affa769e96a8,,,nao versionado: cache/intermediario regeneravel
+db/Velha.fit.qmsg,137663,581b2025e22be12a2870c4ff7eed7c8a1fa9945fd0434bcf5aa3ee0d994fe973,,,nao versionado: cache/intermediario regeneravel
+db/Velha.hier_info,14214,2d17fc97bc7e2946de684f292f40d7c693e6161f075406aab0006967e511581a,,,nao versionado: cache/intermediario regeneravel
+db/Velha.hif,3800,c20be3f474f2b49734da4fcdcf30b049890e68dae4540aee34805f42d26db8ca,,,nao versionado: cache/intermediario regeneravel
+db/Velha.ipinfo,177,8cb22d8f6bf610660f35ef4faacbbeef762653a18530d964376555a78b0ae25d,,,nao versionado: cache/intermediario regeneravel
+db/Velha.lpc.html,1189,c09e23ec1ea9810ff52d67823850da0e99590c6f86a981ec29f375e90a7c7c5f,,,nao versionado: cache/intermediario regeneravel
+db/Velha.lpc.rdb,538,b6e9e7c01ba14367dab31a7a2e660bc1e1b9580c7d6c3e857b135c364bd80e90,,,nao versionado: cache/intermediario regeneravel
+db/Velha.lpc.txt,2230,ef664883cd005c2de6dcf912d4791ad381b8ac7fb6f6014fb39ced3c9288533d,,,nao versionado: cache/intermediario regeneravel
+db/Velha.map.ammdb,137,851dff4fd8bc4c188e1b4899f22102f88bad6f6f73a59165cd3d35636f8bff89,,,nao versionado: cache/intermediario regeneravel
+db/Velha.map.bpm,1124,2fb4ea19eeb86baaa027e3a93dcc2cb4c8bf53860ba6f3587c7c796c86ec2452,,,nao versionado: cache/intermediario regeneravel
+db/Velha.map.cdb,38496,eaac121a5c0eceb7d519a272b28eafaed3fa174e2c44c26dc2cda9d5e75f7e63,,,nao versionado: cache/intermediario regeneravel
+db/Velha.map.hdb,41402,0e4b2362bf551a0ad791d36b776da61024dd3f84d85ba77ffc65cb0e07bdd02b,,,nao versionado: cache/intermediario regeneravel
+db/Velha.map.kpt,2058,8ff676e937235d6e7055a5df27e667aee3879c23dc899e08f8a5f680d82f34a5,,,nao versionado: cache/intermediario regeneravel
+db/Velha.map.logdb,4,2dfede0e6610c473959c963b292fcec325452acba33fd1bba21110e04933df53,,,nao versionado: cache/intermediario regeneravel
+db/Velha.map.qmsg,25116,c91bff7e4944ac25e722b6e67c70de83bc5369a7d51761fd3166684956818a38,,,nao versionado: cache/intermediario regeneravel
+db/Velha.map.rdb,1346,11f74e6cf12bc884cdf0459de4972833cd2f259829e697264cfa250fb67badf0,,,nao versionado: cache/intermediario regeneravel
+db/Velha.map_bb.cdb,1904,396d435039218caa314507725ee6622e8e9fcf0f9cbe64b40a306349942d382e,,,nao versionado: cache/intermediario regeneravel
+db/Velha.map_bb.hdb,19645,626767ac17dc22faa3781b542f754186aa53748a3a052d37a7a5bc303caca810,,,nao versionado: cache/intermediario regeneravel
+db/Velha.map_bb.logdb,4,2dfede0e6610c473959c963b292fcec325452acba33fd1bba21110e04933df53,,,nao versionado: cache/intermediario regeneravel
+db/Velha.pplq.rdb,246,8e11ad0720606bebf419c28d68ebfd084ed3fc96ee27aaa9bd86c408db0793de,,,nao versionado: cache/intermediario regeneravel
+db/Velha.pre_map.hdb,28428,9045657fa41b70ce9040b2dff4e8763795ca1708519086f6b519db2e6ba62154,,,nao versionado: cache/intermediario regeneravel
+db/Velha.pti_db_list.ddb,191,b38aa6f87a1f05a26a9e1e107c440210962e413fe45014648ede53a5a5f07b75,,,nao versionado: cache/intermediario regeneravel
+db/Velha.root_partition.map.reg_db.cdb,476,5290ab77ac2173cd9fd399e770cff289397f9a4eb14e23693d1947d71a0c5379,,,nao versionado: cache/intermediario regeneravel
+db/Velha.routing.rdb,10823,c28c830540c29386380c3cebf653bef1ff122387be5cb9a8120d76a36b671769,,,nao versionado: cache/intermediario regeneravel
+db/Velha.rtlv.hdb,26274,61fe3065cc02adcd4bdffce49a6f0b2bccef5838ca00ab8ebdcb6fd72fed84f4,,,nao versionado: cache/intermediario regeneravel
+db/Velha.rtlv_sg.cdb,19568,e3521f116881558e431e01b8f71624e9fadc2c86274f14f1c0adf3041b7fcf98,,,nao versionado: cache/intermediario regeneravel
+db/Velha.rtlv_sg_swap.cdb,4117,b0374b0a89fa445946dd4b13c16ac857b91c841014d063a87a4df8dae691ac6f,,,nao versionado: cache/intermediario regeneravel
+db/Velha.sgdiff.cdb,45197,26530d65f956beff7f6a601617ecb1a998eb4936bd83e22bd9817e45fc68ee46,,,nao versionado: cache/intermediario regeneravel
+db/Velha.sgdiff.hdb,60358,dc6d93b2d76c8b9a198ef7732077cd648b8548a313ab2bf4fee40f80af3f2f5f,,,nao versionado: cache/intermediario regeneravel
+db/Velha.sld_design_entry.sci,216,f9792aec237d8d87c0eed32943b2d37266066947568f27cdc53c94b654739ff8,,,nao versionado: cache/intermediario regeneravel
+db/Velha.sld_design_entry_dsc.sci,216,f9792aec237d8d87c0eed32943b2d37266066947568f27cdc53c94b654739ff8,,,nao versionado: cache/intermediario regeneravel
+db/Velha.smart_action.txt,6,47acd618a9d45e43b901feaf0edae12ffaa1764399fb271bebf55607e9e7d9a5,,,nao versionado: cache/intermediario regeneravel
+db/Velha.sta.qmsg,14356,9282e662093f8080a2f04c71184535e8e5a690791797a408894e82521c9ece4a,,,nao versionado: cache/intermediario regeneravel
+db/Velha.sta.rdb,23001,edd9d31b26f180f5ee1e2b1ae55a84dc923871efdcc5ba522055277abecd2b91,,,nao versionado: cache/intermediario regeneravel
+db/Velha.sta_cmp.7_slow.tdb,129799,1af7cb59a6cd7eaa0f10916f2215a9014868cb347ad68c4d0e0048eb1632f20c,,,nao versionado: cache/intermediario regeneravel
+db/Velha.syn_hier_info,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,,,nao versionado: cache/intermediario regeneravel
+db/Velha.tis_db_list.ddb,191,4a8cb5facc1270e48357c1625223ec902c8736979e725281c800142edbf21c40,,,nao versionado: cache/intermediario regeneravel
+db/Velha.tmw_info,304,d75d6a6d53575b5615ca60f4f69701353a23934d0cc6c9a7e7f5915300450321,,,nao versionado: cache/intermediario regeneravel
+db/Velha.vpr.ammdb,1008,74d76da65ba58f681d9d2889cd7151209f18ec323c0d1ca4b2e7b5c722c626f1,,,nao versionado: cache/intermediario regeneravel
+greybox_tmp/cbx_args.txt,1444,7f01951c7cb953979aab077fd8ab8d0506472c51067da501027faf51dade6e19,,,nao versionado: cache/intermediario regeneravel
+incremental_db/compiled_partitions/Velha.db_info,154,0929108bf5a83e5fe2bd1d41052d6414c6548fbd87e0e6a3c3abc72a472e6167,,,nao versionado: cache/intermediario regeneravel
+incremental_db/compiled_partitions/Velha.root_partition.cmp.ammdb,924,c271bf74f6e48f5fa511d2ec6959fb4e0415e1f847ad1fbcd62c0f1f4bcc223b,,,nao versionado: cache/intermediario regeneravel
+incremental_db/compiled_partitions/Velha.root_partition.cmp.cdb,60930,c8e8ca687a9e253567f5c49c5b2e7a9de04e97fcf32da7c7e106f38a4f3193c5,,,nao versionado: cache/intermediario regeneravel
+incremental_db/compiled_partitions/Velha.root_partition.cmp.dfp,33,a6ae55c17174b65af6de0b1e51c4edc823941aae2a58b293fa6f28b016738c04,,,nao versionado: cache/intermediario regeneravel
+incremental_db/compiled_partitions/Velha.root_partition.cmp.hdb,40874,26aadf73ca0065601491ac4fca147e09ca88baddd04cd5179b409718eda2014a,,,nao versionado: cache/intermediario regeneravel
+incremental_db/compiled_partitions/Velha.root_partition.cmp.kpt,219,5770a52fdc3d0813c6857a02d0818407c17fb0e6d9b013cebb13ee1f7ffc5888,,,nao versionado: cache/intermediario regeneravel
+incremental_db/compiled_partitions/Velha.root_partition.cmp.logdb,4,2dfede0e6610c473959c963b292fcec325452acba33fd1bba21110e04933df53,,,nao versionado: cache/intermediario regeneravel
+incremental_db/compiled_partitions/Velha.root_partition.cmp.rcfdb,75334,b33e09d0f6a04ed93e4a311bf3d5efa6988a4617d6739b3f48567542bf50e812,,,nao versionado: cache/intermediario regeneravel
+incremental_db/compiled_partitions/Velha.root_partition.map.cdb,38269,cb72864966338dbfd30a81ca464cafd1b5a0244fb1eb1346d7fa8107cd81a092,,,nao versionado: cache/intermediario regeneravel
+incremental_db/compiled_partitions/Velha.root_partition.map.dpi,3763,e49739e4f2433ddba37b0b2b0b8c719c3833d6c53304fc7552931e878375c1ae,,,nao versionado: cache/intermediario regeneravel
+incremental_db/compiled_partitions/Velha.root_partition.map.hbdb.cdb,2184,fd4706f6fdf95e773686ae4138cbe1ff1f21abd81e490505ebbded669c9a5c91,,,nao versionado: cache/intermediario regeneravel
+incremental_db/compiled_partitions/Velha.root_partition.map.hbdb.hb_info,48,8ccbc34c833b6e62323e9155b271865f54a3b56970f3d85bc59d8853b15ee471,,,nao versionado: cache/intermediario regeneravel
+incremental_db/compiled_partitions/Velha.root_partition.map.hbdb.hdb,41072,c32f98d2923eb14ad5f5f93ab4f2ab71cfd977bd9df4919a7f971571d1b48e56,,,nao versionado: cache/intermediario regeneravel
+incremental_db/compiled_partitions/Velha.root_partition.map.hbdb.sig,32,d1201e131f7e4677f14652136dc36bd6de27a0f98d6a1a0758266a9865c7c8bc,,,nao versionado: cache/intermediario regeneravel
+incremental_db/compiled_partitions/Velha.root_partition.map.hdb,41104,b03daf18fc01e73823de13e17db6e1e559414d12882466884eee02b5647067fe,,,nao versionado: cache/intermediario regeneravel
+incremental_db/compiled_partitions/Velha.root_partition.map.kpt,2076,d95a8167c31a69ad7c1602175fe35d58757ffb6391b43b7e4c9cf9f7a48a857f,,,nao versionado: cache/intermediario regeneravel
+incremental_db/README,653,bd005f0652ca29160c77642b084b3f6b3ba88c474095d862e5d0a0c7879814b4,,,nao versionado: cache/intermediario regeneravel
+jogodavelha.bsf,2973,883350dfcf8e318c9ab8479bfa598b2d05b8ac88b5601c47d8418fff2306c30e,projeto/jogodavelha.bsf,883350dfcf8e318c9ab8479bfa598b2d05b8ac88b5601c47d8418fff2306c30e,preservado
+output_files/Chain1.cdf,345,c0e169cc9783b381491234a02e716f79c69500a76309d61faeddc2e0d70db8e4,,,nao versionado: saida de compilacao regeneravel
+output_files/Chain2.cdf,345,c0e169cc9783b381491234a02e716f79c69500a76309d61faeddc2e0d70db8e4,,,nao versionado: saida de compilacao regeneravel
+output_files/Chain3.cdf,345,c0e169cc9783b381491234a02e716f79c69500a76309d61faeddc2e0d70db8e4,,,nao versionado: saida de compilacao regeneravel
+output_files/Chain4.cdf,345,c0e169cc9783b381491234a02e716f79c69500a76309d61faeddc2e0d70db8e4,,,nao versionado: saida de compilacao regeneravel
+output_files/Chain5.cdf,345,c0e169cc9783b381491234a02e716f79c69500a76309d61faeddc2e0d70db8e4,,,nao versionado: saida de compilacao regeneravel
+output_files/Chain6.cdf,345,c0e169cc9783b381491234a02e716f79c69500a76309d61faeddc2e0d70db8e4,,,nao versionado: saida de compilacao regeneravel
+output_files/Chain7.cdf,345,c0e169cc9783b381491234a02e716f79c69500a76309d61faeddc2e0d70db8e4,,,nao versionado: saida de compilacao regeneravel
+output_files/Chain8.cdf,345,c0e169cc9783b381491234a02e716f79c69500a76309d61faeddc2e0d70db8e4,,,nao versionado: saida de compilacao regeneravel
+output_files/Chain9.cdf,345,c0e169cc9783b381491234a02e716f79c69500a76309d61faeddc2e0d70db8e4,,,nao versionado: saida de compilacao regeneravel
+output_files/Velha.asm.rpt,7939,066dd32bda0f92f4ca3af636ac4f3776e6cac779e52ee2fecb62aabeae127ca0,,,nao versionado: saida de compilacao regeneravel
+output_files/Velha.cdf,345,c0e169cc9783b381491234a02e716f79c69500a76309d61faeddc2e0d70db8e4,,,nao versionado: saida de compilacao regeneravel
+output_files/Velha.done,26,854f7ffd2e3459f44aceede2298576105f5cddc012eb8d97b68ae51aa52edff9,,,nao versionado: saida de compilacao regeneravel
+output_files/Velha.fit.rpt,372915,e0f3b94c6b1d643a28e2fbdde8c337bce6dfd43898f4e212b006678bb40dd5f7,,,nao versionado: saida de compilacao regeneravel
+output_files/Velha.fit.smsg,703,bff381894c1dc45dfc5f6fb651d1bbe3793ead7f7adc4646fd1806e464e18e75,,,nao versionado: saida de compilacao regeneravel
+output_files/Velha.fit.summary,616,7f9a4462cab8d4117394973940146ecab20991c178af756af5551292c235d9f4,docs/relatorios-originais/Velha.fit.summary,7f9a4462cab8d4117394973940146ecab20991c178af756af5551292c235d9f4,resumo de compilacao de referencia preservado
+output_files/Velha.flow.rpt,7791,2a3925454b6f81e4bbf8d598e51fefcd80d8bce3e6ef3cecace050dccf0b8434,,,nao versionado: saida de compilacao regeneravel
+output_files/Velha.jdi,224,a48ccf87880a975f3c9bdd84a903d39398c122d699be5589444cc935612aba05,,,nao versionado: saida de compilacao regeneravel
+output_files/Velha.map.rpt,93716,c2a084507a3dedaa25c78344a0303e823121d93424d6da751c143d8f3d943f88,,,nao versionado: saida de compilacao regeneravel
+output_files/Velha.map.smsg,127,c44e37c23f0037dfc3434a5e85c583c9da916a00bcfafe92809c64a2ac16f625,,,nao versionado: saida de compilacao regeneravel
+output_files/Velha.map.summary,473,03a1f7599d664e82bfb1b97f44c6cc1f03c2418bf76cf39b81528974dc4050cc,docs/relatorios-originais/Velha.map.summary,03a1f7599d664e82bfb1b97f44c6cc1f03c2418bf76cf39b81528974dc4050cc,resumo de compilacao de referencia preservado
+output_files/Velha.pin,57840,46a74cac5b71e30dce17fdb6fa52691c34a2cc1918f10407f00001488d75b97e,,,nao versionado: saida de compilacao regeneravel
+output_files/Velha.pof,2097373,00dd043c78c994e41b9f7f06e0cd26eaa1afade8fe494c237466d426df6246bd,,,nao versionado: saida de compilacao regeneravel
+output_files/Velha.sof,476055,4e30e98619a969bff1601b1da0f29c873e3cb71bac79a4b7fe34aaf82a0a6591,,,nao versionado: saida de compilacao regeneravel
+output_files/Velha.sta.rpt,248795,47da42947abbc09d14ad39f5865d688ed1f321814197e91392ee1e5a5a16b0ef,,,nao versionado: saida de compilacao regeneravel
+output_files/Velha.sta.summary,1520,0058cce279e4a8ea57ac532539874bf8a23053013ea0a52f4d143b472e63b9f3,docs/relatorios-originais/Velha.sta.summary,0058cce279e4a8ea57ac532539874bf8a23053013ea0a52f4d143b472e63b9f3,resumo de compilacao de referencia preservado
+Velha.bsf,2967,a3dff9bc0c6180ef0d2c460c4d41903577892f30db7da76c596e17c2ef75cc23,projeto/Velha.bsf,a3dff9bc0c6180ef0d2c460c4d41903577892f30db7da76c596e17c2ef75cc23,preservado
+Velha.qpf,1290,4b54ddcc41ad8c3161a71cbe359c1162da32de0096b5da241acf85bd1a94a8b2,projeto/Velha.qpf,4b54ddcc41ad8c3161a71cbe359c1162da32de0096b5da241acf85bd1a94a8b2,preservado
+Velha.qsf,15959,f815c688cf3e358035414971cef4afbdc759d1d0fd6f53014fe20bc5b239106b,projeto/Velha.qsf,f815c688cf3e358035414971cef4afbdc759d1d0fd6f53014fe20bc5b239106b,preservado
+Velha.qsf.bak,16012,646351b9caebebfff8db6b6d6fe799193406726f7e7246eae66e63ccb7f0167a,,,nao versionado: copia de edicao fora da revisao ativa
+Velha.qws,4700,3079de75f25a228b00a871826aee27033516b4075a08465333e980dcf3d443a6,,,nao versionado: estado local da interface Quartus
+Velha.v,3222,40a5b209b1bffc90f32739e3332ca383fdadbe5bf0bcad02b59e7350a6f2dbc3,projeto/Velha.v,06f2bf28183843c4c28177ccd6a062d68fcf81460781fa3b7c48e6347effb5ac,adequacao tecnica minima: diagonal secundaria azul
+Velha.v.bak,3111,a96fb1bf74eb1f013239d8263faa3d0c5cc444214f17036ecd9a118bbfc0f12c,,,nao versionado: copia de edicao fora da revisao ativa
+VGA.bsf,3127,00352cb8ea2d91400672ca97f887f47cb82e97ad739cf0934ac90c96ccbd402e,projeto/VGA.bsf,00352cb8ea2d91400672ca97f887f47cb82e97ad739cf0934ac90c96ccbd402e,preservado
+VGA.v,6896,e348e45bac9fa118daf55d476fdbfe778c269d55fa244e94ecf9a5524630af1f,projeto/VGA.v,e348e45bac9fa118daf55d476fdbfe778c269d55fa244e94ecf9a5524630af1f,preservado
+VGA.v.bak,3934,55d7ed6ead18d9a20e196471b141ccc867bafe17745733bed670433c56400757,,,nao versionado: copia de edicao fora da revisao ativa
+vga_display.bsf,2582,ac38f20481ca9f5a9b78518c6f5dabc9f0e80b6e3e0f450e25361b5403acc194,projeto/vga_display.bsf,ac38f20481ca9f5a9b78518c6f5dabc9f0e80b6e3e0f450e25361b5403acc194,preservado
+VGA_SYNC.bsf,3806,55390bad09034d8c6dabda8e3886fa3df508192b7b6d9324c3edf8aee5567fa4,projeto/VGA_SYNC.bsf,55390bad09034d8c6dabda8e3886fa3df508192b7b6d9324c3edf8aee5567fa4,preservado
+VGA_SYNC.v,13192,5472a58bddbc545b9fe5ecb990ffe8b39b6e9f43f2f48366bb123dfa266bc030,,,nao versionado: copia VHDL redundante; ativo VGA_SYNC.vhd
+VGA_SYNC.vhd,13194,5c6f03280c2e8c5f085ad076f4b97d9f2ac1236c77a064a587418a75f7723e6b,projeto/VGA_SYNC.vhd,5c6f03280c2e8c5f085ad076f4b97d9f2ac1236c77a064a587418a75f7723e6b,preservado
+vgadisplay.bsf,3323,62861e2c75896f70bff9c2369252e6db136b8b239439dd49938f1734e457bd86,projeto/vgadisplay.bsf,62861e2c75896f70bff9c2369252e6db136b8b239439dd49938f1734e457bd86,preservado
+vgadisplay.v,4610,a92bd762680b9af0d064ffe11f18e643418ddb0af50cf4b827bae6f75a3acbc6,projeto/vgadisplay.v,a92bd762680b9af0d064ffe11f18e643418ddb0af50cf4b827bae6f75a3acbc6,preservado
+vgadisplay.v.bak,4538,3904dad15c719d776eeec5e52d6944e3278c6f86afc601176352262177ab851f,,,nao versionado: copia de edicao fora da revisao ativa
+Video_PLL.vhd,8831,c47d4b678d10c21f5396dcef07955747d6622b9106751c9a9c8c62ac807b19ff,projeto/Video_PLL.vhd,c47d4b678d10c21f5396dcef07955747d6622b9106751c9a9c8c62ac807b19ff,preservado

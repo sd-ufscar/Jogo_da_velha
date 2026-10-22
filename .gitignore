@@ -1,0 +1,29 @@
+# Bancos de dados e intermediários regenerados pelo Quartus.
+projeto/db/
+projeto/incremental_db/
+projeto/greybox_tmp/
+projeto/output_files/
+projeto/simulation/
+projeto/*.qws
+projeto/*.bak
+projeto/*.rpt
+projeto/*.summary
+projeto/*.smsg
+projeto/*.qmsg
+projeto/*.jdi
+projeto/*.done
+projeto/*.sof
+projeto/*.pof
+projeto/*.sld
+projeto/*.dpf
+projeto/*.cdf
+projeto/*.qdf
+projeto/*.qtl
+projeto/*.qip.tmp
+projeto/*.qsf.tmp
+# Resultados das verificações locais.
+testes/build/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

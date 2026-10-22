@@ -1,0 +1,11 @@
+# Preservar os bytes dos arquivos originais do Quartus.
+projeto/** -text
+docs/relatorios-originais/** -text
+imagens/** binary
+.gitattributes text eol=lf
+.gitignore text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.sv text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
