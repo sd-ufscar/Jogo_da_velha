@@ -69,5 +69,3 @@ cd Jogo_da_velha
 ```
 
 No Quartus II 13.0 SP1, abrir [projeto/Velha.qpf](projeto/Velha.qpf), conferir o dispositivo e o topo `Block2`, compilar e programar o arquivo `.sof` recém-gerado pelo modo JTAG. Seguir o [procedimento completo](docs/07-compilacao-e-gravacao.md) antes da gravação.
-
-**Validação disponível:** simulação funcional dos módulos Verilog e análise de `VGA_SYNC.vhd`. A compilação completa desta publicação no Quartus, o fechamento temporal e uma nova execução física não foram realizados. A biblioteca de simulação `altera_mf` e as restrições `Velha.sdc` não acompanham as fontes; os efeitos dessas limitações são descritos em [Validação](docs/09-validacao.md).
